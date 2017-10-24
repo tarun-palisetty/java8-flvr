@@ -1,4 +1,4 @@
-package com.sample.stream;
+package com.sample.utils.optional;
 
 import java.util.Optional;
 

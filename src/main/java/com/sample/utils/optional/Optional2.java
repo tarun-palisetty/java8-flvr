@@ -1,4 +1,4 @@
-package com.sample.stream;
+package com.sample.utils.optional;
 
 import javax.swing.text.html.Option;
 import java.util.Optional;
