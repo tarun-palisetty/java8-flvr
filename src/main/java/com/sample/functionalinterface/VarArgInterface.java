@@ -1,7 +1,12 @@
 package com.sample.functionalinterface;
 
 /**
- * Created by tarun on 07/09/2017.
+ *
+ * This functional interface represents a function that accepts one argument and produces a result.
+ * One use, for example, it's to convert or transform from one object to another.
+ * Since it's a functional interface, you can pass a lambda expression wherever a Function is expected.
+ *
+ *
  */
 
 @FunctionalInterface
